@@ -55,7 +55,7 @@ namespace UTS_PBO
             return biayaPerHari * lamaHari;
         }
     }
-    internal class BukuReferensi : PinjamBuku
+     class BukuReferensi : PinjamBuku
     {
         public int biayaPerHari = 1000;
         public int biayaAsuransi = 2000;
